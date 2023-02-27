@@ -13,14 +13,16 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NareshKumar1553)
-### Pre-final year
-#### Karpagam College of Engineering
-##### Coimbatore
+## Pre-final year (Computer Science and Engineering)
+### Karpagam College of Engineering
+#### Coimbatore
 
 <img align="right" alt="Naresh Kumar S" src="https://github.com/NareshKumar1553/RajaAuth/blob/master/android/app/src/main/res/drawable/launch_screen.png" width="250" height="320" />
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
