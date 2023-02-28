@@ -1,4 +1,5 @@
 # ✓Naresh Kumar S💝
+
 <a href="https://www.instagram.com/lucky_prince_nk/?igshid=YmMyMTA2M2Y%3D">
   <img align="left" alt="Naresh Kumar S's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -13,6 +14,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NareshKumar1553)
+
 ## Pre-final year (Computer Science and Engineering)💻
 ### Karpagam College of Engineering😜
 #### Coimbatore💒
