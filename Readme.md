@@ -17,7 +17,7 @@
 ### Karpagam College of Engineering
 #### Coimbatore
 
-<img align="right" alt="Naresh Kumar S" src="https://github.com/NareshKumar1553/RajaAuth/blob/master/android/app/src/main/res/drawable/launch_screen.png" width="250" height="320" />
+<img align="right" alt="Naresh Kumar S" src="https://github.com/NareshKumar1553/RajaAuth/blob/master/android/app/src/main/res/drawable/Mine.png" width="200" height="320" />
 
 **Languages and Tools:**  
 
