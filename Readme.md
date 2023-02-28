@@ -1,4 +1,4 @@
-# 💝Naresh Kumar S ✓
+# 💝 Naresh Kumar S ✓
 
 <a href="https://www.instagram.com/lucky_prince_nk/?igshid=YmMyMTA2M2Y%3D">
   <img align="left" alt="Naresh Kumar S's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -32,9 +32,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-**Interested in:** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/artificial-intelligence/artificial-intelligence.png"></code>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NareshKumar1553&show_icons=true&theme=gotham" alt="Naresh Kumar S" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NareshKumar1553&show_icons=true&theme=gotham" alt="Naresh Kumar S" />
