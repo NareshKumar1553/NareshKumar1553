@@ -32,5 +32,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
+**Interested in:** 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NareshKumar1553&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/artificial-intelligence/artificial-intelligence.png"></code>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NareshKumar1553&show_icons=true&theme=gotham" alt="Naresh Kumar S" />
