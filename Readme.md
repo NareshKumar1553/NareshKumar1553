@@ -10,7 +10,7 @@
   <img align="left" alt="Naresh Kumar S LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=NareshKumar1553)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNareshKumar1553%2FNareshKumar1553&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper)
 
 ## Pre-final year (Computer Science and Engineering)💻
 ### [Karpagam College of Engineering😜](https://kce.ac.in/)
