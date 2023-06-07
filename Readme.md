@@ -1,4 +1,4 @@
-# [💝 Naresh Kumar S ✓](https://nareshkumar.tech/) 
+# [💝 Naresh Kumar S ✓](https://nareshkumar.me/) 
 
 <a href="https://www.instagram.com/lucky_prince_nk/?igshid=YmMyMTA2M2Y%3D">
   <img align="left" alt="Naresh Kumar S's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
