@@ -1,14 +1,16 @@
 # [💝 Naresh Kumar S ✓](https://nareshkumar.me/) 
-
+<!--
 <a href="https://www.instagram.com/lucky_prince_nk/?igshid=YmMyMTA2M2Y%3D">
   <img align="left" alt="Naresh Kumar S's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+
 <a href="https://twitter.com/NareshKumar1553">
   <img align="left" alt="Naresh Kumar S | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/naresh-kumar-s/">
   <img align="left" alt="Naresh Kumar S LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+-->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNareshKumar1553%2FNareshKumar1553&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper)
 
