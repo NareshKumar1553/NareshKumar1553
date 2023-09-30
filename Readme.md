@@ -57,8 +57,8 @@ Welcome to my GitHub Pages. I am Naresh Kumar and now Computer Science engineeri
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
-      <br>GitLab
+        <img src="[https://skillicons.dev/icons?i=gitlab](https://techstack-generator.vercel.app/react-icon.svg)" width="65" height="65" alt="React-Native" />
+      <br>React-Native 
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
