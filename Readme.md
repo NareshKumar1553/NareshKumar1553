@@ -79,7 +79,7 @@ Welcome to my GitHub Pages. I am Naresh Kumar and now Computer Science engineeri
     </td>
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
-      <br>React
+      <br>React-JS
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=eclipse" width="65" height="65" alt="eclipse" />
