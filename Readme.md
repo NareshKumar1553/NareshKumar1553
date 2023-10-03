@@ -23,10 +23,6 @@
 
 </div>
 <p></p>
-<!-- <p align="justify">
-Welcome to my GitHub Pages. I am Naresh Kumar and now Computer Science engineering student at Karpagam College of Engineering, I learn new things about programming and teach these things to others. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/lucky_prince_nk">lucky_prince_nk</a>.
-
-</p> -->
 
 ## My favorite tools and technologies ⚙️
 
