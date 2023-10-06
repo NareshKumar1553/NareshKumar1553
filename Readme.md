@@ -23,7 +23,7 @@
 
 </div>
 <p></p>
-<!-- Fun -->
+<!--  -->
 
 ## My favorite tools and technologies ⚙️
 
