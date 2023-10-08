@@ -23,7 +23,7 @@
 
 </div>
 <p></p>
-<!-- GMIAL -->
+<!-- FUN -->
 
 ## My favorite tools and technologies ⚙️
 
