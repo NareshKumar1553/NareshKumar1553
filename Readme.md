@@ -1,4 +1,4 @@
-<h1>Hi there! I'm NARESH KUMAR S </h1>
+<h1>Hi there! I'm NARESH KUMAR SARAVANAN </h1>
 <div align="justify">
 
 <a href="https://www.instagram.com/lucky_prince_nk/?igshid=YmMyMTA2M2Y%3D">
