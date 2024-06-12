@@ -1,3 +1,5 @@
+![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/NareshKumar1553/Leetcode-Solutions/assets/89716658/0735988e-ef75-40a3-8ff2-c17ce9350385)
+
 <h1>Hi there! I'm NARESH KUMAR SARAVANAN </h1>
 <div align="justify">
 
@@ -22,6 +24,7 @@
 </a>
 
 </div>
+
 <p></p>
 <!-- FUN -->
 
