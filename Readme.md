@@ -1,4 +1,4 @@
-![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/NareshKumar1553/Leetcode-Solutions/assets/89716658/0735988e-ef75-40a3-8ff2-c17ce9350385)
+![LinkedIn Cover Pic](https://github.com/user-attachments/assets/9605e22c-da9a-4a6a-bd20-62e998032739)
 
 <h1>Hi there! I'm NARESH KUMAR SARAVANAN </h1>
 <div align="justify">
